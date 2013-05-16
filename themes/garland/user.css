@@ -1,0 +1,16 @@
+.view-image-rotator li {
+	list-style-image:none;
+	list-style-type:none;
+}
+#rotator-nav li {
+	display:inline;
+}
+#rotator-nav a {
+	display:block;
+	float:left;
+	margin:10px 8px 0 0;
+	height:10px;
+	width:10px;
+	border:1px solid #cdcdcd;
+	background:#111;
+}
